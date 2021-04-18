@@ -20,7 +20,7 @@
 
 <br>
 
-Personal             |  AutoMeta Labs Organization
+[Personal!](https://github.com/skatz1990)              |  [AutoMeta Labs Organization!](https://github.com/Autometa-Labs/)
 :-------------------------:|:-------------------------:
 ![](https://metrics.lecoq.io/skatz1990?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FNew_York)  |  ![](https://metrics.lecoq.io/Autometa-Labs?template=classic&languages=1&introduction=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&introduction.title=true&config.timezone=America%2FNew_York)
 
