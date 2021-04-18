@@ -26,7 +26,7 @@
     </div>
     <div>
         <img align="center"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=skatz1990&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=skatz1990&layout=compact&bg_color=151515)]"
             alt="skatz's Top Languages">
     </div>
 </div>
