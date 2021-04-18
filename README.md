@@ -10,12 +10,12 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Python | Scala | Go | C#
+- 💻 &nbsp; Java | Python | Scala | Go | C# | Solidity
 - 🌐 &nbsp; ASP .NET | HTML | CSS | JavaScript | Bootstrap
 - 🛢 &nbsp; MySQL | SQL Server | Cassandra
-- 🔧 &nbsp; PyCharm | Visual Studio code | Visual Studio | IntelliJ IDEA | Git | Docker | Kubernetes
+- 🔧 &nbsp; PyCharm | Visual Studio code | Visual Studio | IntelliJ IDEA | Git | Docker | Kubernetes | Remix
 - 🖥 &nbsp; Windows | Linux
-- 📊 &nbsp; Kafka | Elasticsearch | Spark
+- 📊 &nbsp; Kafka | Elasticsearch | Spark | Flink | Dataflow | Beam
 - ☁ &nbsp; Amazon Web Services | Google Cloud Platform
 
 <br>
