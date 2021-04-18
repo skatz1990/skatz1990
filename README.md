@@ -20,19 +20,9 @@
 
 <br>
 
-<div>
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=skatz1990&layout=compact&bg_color=151515)]"
-        alt="skatz's Top Languages">
-</div>
+![Metrics](https://metrics.lecoq.io/skatz1990?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FNew_York)
 
-<br>
-
-<div>
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=skatz1990&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
-        alt="skatz's Github Stats">
-</div>
+![Metrics](https://metrics.lecoq.io/Autometa-Labs?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FNew_York)
 
 <br>
 
