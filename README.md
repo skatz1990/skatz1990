@@ -20,7 +20,12 @@
 
 <br>
 
-![](https://metrics.lecoq.io/skatz1990?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FNew_York)
+<a href="https://github.com/skatz1990/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=skatz1990&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/skatz1990/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skatz1990&langs_count=5&theme=tokyonight" />
+</a>
 
 <br>
 
